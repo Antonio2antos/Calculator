@@ -22,7 +22,7 @@ To use the calculator, simply open the `index.html` file in your web browser. Yo
 
 ## Screenshots
 
-![Calculator Screenshot](/screenshots/calculator.png)
+![Calculator Screenshot](/calculator.png)
 
 ## Contributing
 
